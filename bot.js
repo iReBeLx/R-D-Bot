@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : RED DIAMOND ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` ABOWALEED ツ,"https://www.twitch.tv/abowaieed Shop")
+client.user.setGame(`ABO WALEED,"https://www.twitch.tv/abowaieed Shop")
 client.user.setStatus("dnd")
 });
 
