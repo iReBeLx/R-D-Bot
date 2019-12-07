@@ -6,12 +6,12 @@ const prefix = "-";
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : RED DIAMOND`);
+      console.log(`Desert Bot- Script By : EX Clan`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : RED DIAMOND ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ABO WALEED,"https://www.twitch.tv/abowaieed Shop")
+client.user.setGame(`|TheExpendables`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
@@ -155,7 +155,7 @@ client.on("message", async message => {
             معلومات عن السيرفر : ${prefix}server
             برودكاست للأونلاين فقط : ${prefix}bco
             يعرض لك عدد المتبندين من سيرفرك : ${prefix}banned
-            رابط سيرفر الدعم الفني : https://discord.gg/arePU7A
+            رابط سيرفر الدعم الفني : https://discord.gg/k6MvfrC
             **`);
             message.channel.sendEmbed(help); // رابط السيرفر يعود الى سيرفر CODES .
     }
