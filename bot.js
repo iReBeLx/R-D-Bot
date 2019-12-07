@@ -6,12 +6,12 @@ const prefix = "-";
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`Desert Bot- Script By : iReBeL`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : ABOW WLEED ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`|TheExpendables`,"http://twitch.tv/Death Shop")
+client.user.setGame(`|TheExpendables`,"https://www.twitch.tv/abo waleed")
 client.user.setStatus("dnd")
 });
 
