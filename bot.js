@@ -8,7 +8,7 @@ client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Desert Bot- Script By : iReBeL`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : ABOW WLEED' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : ABO WLEED' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`ABO WALEED`,"https://www.twitch.tv/abowaieed")
