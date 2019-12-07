@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : ABOW WLEED ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`|TheExpendables`,"https://www.twitch.tv/abo waleed")
+client.user.setGame(`|ABOW WLEED`,"https://www.twitch.tv/abo waleed")
 client.user.setStatus("dnd")
 });
 
