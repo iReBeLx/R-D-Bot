@@ -46,7 +46,7 @@ client.on("message", async message => {
                                             let bc = new Discord.RichEmbed()
                                             .setColor("RANDOM")
                                             .setThumbnail(message.author.avatarURL)
-                                            .setTitle(":incoming_envelope: [BROADCAST FROM R|D™️] :incoming_envelope: ")
+                                            .setTitle(":incoming_envelope: [BROADCAST FROM H.W™️] :incoming_envelope: ")
                                             .addField(":diamond_shape_with_a_dot_inside: {السيرفر} :diamond_shape_with_a_dot_inside: ", message.guild.name)
                                             .addField(":black_joker: {المرسل} :black_joker:", message.author.username)
                                             .addField(":page_facing_up: {الرسالة} :page_facing_up:", args);
