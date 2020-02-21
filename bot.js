@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : ABO WLEED' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ABO WALEED`,"https://www.twitch.tv/abowaieed")
+client.user.setGame(`ABO WALEED`,"https://www.twitch.tv/abowaleed_")
 client.user.setStatus("dnd")
 });
 
